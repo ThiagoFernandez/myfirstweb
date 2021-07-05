@@ -1,0 +1,47 @@
+body {
+    background-color: green;
+}
+
+header {
+    border: solid rgb(212, 238, 116);
+    padding: 100px;
+    padding-left: 550px;
+    padding-right: 650px;
+}
+
+nav {
+    border: solid rgb(212, 238, 116);
+    padding: 100px;
+    padding-left: 550px;
+    margin-top: 10px;
+}
+
+main {
+    border: solid rgb(212, 238, 116);
+    margin-top: 10px;
+    padding: 100px;
+    padding-left: 50px;
+    padding-right: 750px;
+    margin-right: 750px;
+
+
+}
+
+aside {
+    border: solid rgb(212, 238, 116);
+    margin-top: 10px;
+    margin-left: 1250px;
+    padding-left: 10px;
+    padding-right: 100px;
+    width: 500px;
+  float: right;
+  position: relative;
+  bottom: 1360px
+}
+
+footer {
+    border: solid rgb(212, 238, 116);
+    padding-top: 10px;
+    padding-left: 850px;
+    margin-top: 10px;
+}
